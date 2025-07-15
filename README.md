@@ -33,7 +33,7 @@ The dataset used in this project is a subset of a larger dataset . It contains i
 The analysis involved:
 
 - **Data Cleaning and Preparation:** Handling missing values, outliers, and transforming categorical variables using techniques like one-hot encoding and label encoding (for ordered categories like condition).
-- **Feature Engineering:** Creating new features such as `label_name` based on model trims and `cylinder_count` and `drive_count` by extracting numerical information from string columns.
+- **Feature Engineering:** Creating new features such as `label_name` based on order of model trims price and `cylinder_count` and `drive_count` by extracting numerical information from string columns.
 - **Exploratory Data Analysis (EDA):** Visualizing data distributions and correlations to understand relationships between variables and the target variable (price).
 - **Model Selection and Training:** Building and evaluating several regression models, including:
   - Linear Regression
