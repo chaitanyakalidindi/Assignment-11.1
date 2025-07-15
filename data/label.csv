@@ -1,0 +1,673 @@
+Unnamed: 0,model,price_label
+1,f-150 xlt,5
+2,f150 super cab xl pickup 4d,2
+3,f150 supercrew cab xlt,5
+4,f150 regular cab xl pickup,2
+5,f150 supercrew cab xl,2
+6,f150 lariat supercrew 4x4,10
+7,f150,-1
+8,f-150,-1
+9,f150 regular cab xl,2
+10,f150 xl,2
+11,f150 lariat fx4 4x4,10
+12,f150 4x4 xlt,5
+13,f-150 regular cab short bed,-1
+14,f150 xlt,5
+15,f150 super cab xlt pickup,5
+16,f-150 supercab xlt,5
+17,f150 platinum 4x4,15
+18,f150 xlt 4x4,5
+19,f-150 xl supercrew 6.5-ft. bed 4wd,2
+20,f-150 xl supercrew 5.5-ft. bed 4wd,2
+21,f150 super cab lariat,10
+22,f150 fx4 4x4,8
+23,f150 lariat 4wd,10
+24,f150 xlt 4wd,5
+25,f150 4x4 lariat,10
+26,f150 lariat,10
+27,f150 xlt 4wd f-150 4x4,5
+28,f150 4x4 lariat 4wd f-150,10
+29,f150 stx,3
+30,f150 stx 4wd,3
+31,f150 lariat 4wd f-150,10
+32,f-150 lariat,10
+33,f-150 lariat 4wd,10
+34,f-150 platinum,15
+35,f-150 limited,17
+36,f-150 supercrew limited,17
+37,f150 supercrew cab lariat,10
+38,f-150 xlt 4x2 4dr supercrew,5
+39,f-150 raptor,18
+40,f-150 xlt supercrew,5
+41,f-150 fx4,8
+42,f-150 xl 4x4,2
+43,f150 supercrew cab fx4,8
+44,f-150 xl,2
+45,f-150 xlt crew 4x4,5
+46,f-150 larait 4 door,-1
+47,f-150 xlt automatic,5
+48,f150 4x4,-1
+49,f150 super cab,-1
+50,f150 supercrew cab,-1
+51,f-150 limited 4x4,17
+52,f-150 king ranch 4x4,14
+53,f-150 stx,3
+54,f-150 king ranch,14
+55,f150 lariat ecoboost 4wd,10
+56,f-150 lariat automatic,10
+57,f-150 xl automatic,2
+58,f150 supercrew 4wd,-1
+59,f150 supercrew 4x4,-1
+60,f150 supercrew cab fx2,7
+61,f150 fx4,8
+62,f-150 xlt 4wd supercrew 5.5,5
+63,f150 raptor,18
+64,f-150 super crew,-1
+65,f150 super cab 4x4,-1
+66,f-150 f150,-1
+67,f-150 4wd supercrew 145 pla,-1
+68,f150 supercrew,-1
+69,f-150 limited 4wd supercrew,17
+70,f-150 lariat crew 5.5ft bed,10
+71,f-150 lifted lariat supercrew 5.0 v8,10
+72,f-150 xlt supercrew ecoboost 3.5l premium,5
+73,f-150 v8 supercrew,-1
+74,f-150 2wd supercrew 145 fx2,7
+75,f-150 lariat 4wd supercrew,10
+76,f150 king ranch 4x4,14
+77,f-150 4wd supercrew 145 svt,-1
+78,f-150 xlt 2wd supercrew 5.5,5
+79,f-150 raptor 4wd supercrew,18
+80,f-150 platinum 4wd supercre,15
+81,f-150 4wd supercrew 145 xlt,5
+82,f-150 xl 2wd supercrew 5.5,2
+83,f150 fx2,7
+84,f-150 lariat 4x4,10
+85,f-150 xlt fx4,5
+86,f-150 xlt supercrew eco boost 3.5l,5
+87,f-150 xlt sport supercrew,5
+88,f150 regular cab xlt pickup,5
+89,f-150 xlt 4x4,5
+90,f-150 fx2,7
+91,f-150 fx4 lifted crew ecoboost 3.5liter,8
+92,f-150 svt raptor,18
+93,f-150 platinum crew ecoboost 3.5l,15
+94,f-150 lifted supercrew xlt 4x4 v6 twin turbo financing,5
+95,f-150 xlt lariet,5
+96,f150 - triton v8,-1
+97,f150 platinum,15
+98,f150 raptor 6.2l 4x4 crew,18
+99,f-150 xlt 4wd supercrew,5
+100,f-150 extended cab,-1
+101,f-150 supercrew xlt crew,5
+102,f-150 4x4 3.5 ecoboost,-1
+103,f-150 crew 4x4 5.0 v8,-1
+104,f-150 4x4 5.0 v8,-1
+105,f-150 tremor fx4 regular,12
+106,f-150 4x4 super crew,-1
+107,f-150 4wd supercrew,-1
+108,f-150 xl supercrew 4x4,2
+109,f150xl,2
+110,f150 sxt,1
+111,f150 supercrew cab king,-1
+112,f150 super crew 4x4 xlt,5
+113,f150 xlt crew cab 4x4,5
+114,f-150 xlt rwd,5
+115,f-150 supercrew xlt 4x4,5
+116,f-150 xl 2dr standard cab,2
+117,"f-150 f150 xlt 3.5 ecoboost,v6 4x4 !! lifted!! f150",5
+118,"f-150 f150 lariat sport 4x4, lifted on 35s",10
+119,f-150 4x4 5.0l v8 360hp 380ft. lbs. torque super crew xlt one owner,5
+120,f-150 fx4 super crew,8
+121,f-150 xlt 4dr supercrew xlt,5
+122,f150 8ft,-1
+123,f150 extended cab,-1
+124,f150 super cab four-door,-1
+125,f-150 stx 4x4,3
+126,f150 fx4 supercrew 4x4,8
+127,f150 raptor 4x4,18
+128,f150 regular cab,-1
+129,f-150 lariat supercrew 5.,10
+130,f150 super crew,-1
+131,f-150 king ranch supercrew,14
+132,f-150 supercrew cab xlt,5
+133,f-150 super cab xlt,5
+134,f-150 xlt supercrew 5.5',5
+135,f-150 super cab xl,2
+136,f-150 shelby supersnake,-1
+137,f-150 ecoboost,-1
+138,f150 supercrew cab limited,17
+139,f-150 truck,-1
+140,f-150 platinum 4x4,15
+141,f150 super cab xlt,5
+142,f150 xlt triton,5
+143,f-150 only 84k miles,-1
+144,f-150 xl standard cab,2
+145,f-150 xl crew cab,2
+146,f-150 lariat crew cab,10
+147,f-150 xl extended cab,2
+148,f-150 xltcrew cab,5
+149,f-150 xlt crew cab,5
+150,f-150 raptorcrew cab,18
+151,f-150 fx2 lifted super crew,7
+152,f150 svt raptor,18
+153,f150 work truck,-1
+154,f-150 fx4 fx4 4dr supercab,8
+155,f-150 xlt supercrew 4x4,5
+156,f-150 4x4,-1
+157,f150 svt raptor 4x4,18
+158,f150 4*4,-1
+159,f-150 xl stx sport pkg,3
+160,f-150 custom,-1
+161,f-150 4x4 5.4 v8,-1
+162,"f-150 fx4 | 4x4, extra",8
+163,f150 super cab * - loaded,-1
+164,f150 supercrew cab * 1 own,-1
+165,f150 xl 2wd,2
+166,f-150 xl pre-owned,2
+167,f-150 lariat certified pre,10
+168,f-150 xlt pre-owned,5
+169,f-150 supercrew,-1
+170,f-150 super cab,-1
+171,f-150 c,-1
+172,f150 xlt supercab,5
+173,f150 lariat supercrew,10
+174,f-150 xlt supercrew 4wd 4-speed automatic,5
+175,f150 lariat 4x4 supercrew,10
+176,f-150 xlt supercab 4x4 f150,5
+177,f150 lariat 4x4,10
+178,f150 xlt supercrew,5
+179,f-150 wg,-1
+180,f150 cab fx2,7
+181,f150 ecoboost 4x4,-1
+182,"f-150 xlt**lifted*cam!*v6,",5
+183,"f-150 svt raptor**v6,3.5l*",18
+184,f150 xlt supercrew 4x4,5
+185,f150 supercrew xlt,5
+186,f-150 king ranch super cr,14
+187,f-150 platinum super crew,15
+188,f-150 platinum**navi*cam*l,15
+189,f-150 xlt**navi*back up ca,5
+190,"f-150 xlt**back up cam*v6,",5
+191,f150 fx4 off road 4x4,8
+192,f150 3.5 v6,-1
+193,f-150 fx4 super crew sunr,8
+194,f-150 super cab 4x4,-1
+195,f-150 xlt xtr super cab b,5
+196,f-150 platinum**leather*na,15
+197,"f-150 lariat**v8,5.0l*navi",10
+198,f-150 xlt super crew eco,5
+199,f-150 fx4 super crew sun,8
+200,f150 supercrew cab stx,3
+201,f150 super cab stx pickup,3
+202,f150 ecoboost,-1
+203,"f-150 4wd supercrew 157"" fx4",8
+204,"f-150 4wd supercrew 157"" xlt",5
+205,"f-150 4wd supercrew 145"" xlt",5
+206,"f-150 4wd supercrew 145"" platinum",15
+207,"f-150 4wd supercab 145"" xlt",5
+208,f-150 stepside,-1
+209,f150 supercrew cab platinum,15
+210,f150 supercrew cab svt,-1
+211,f150 supercrew cab 4x4,-1
+212,"f-150 4wd supercrew 145"" lariat",10
+213,f-150 xlt supercrew 6.5-ft,5
+214,f150 crew cab 4x4,-1
+215,f-150 supercrew lariat 4x4,10
+216,f-150 platinum 4wd,15
+217,f150 3dr ext,-1
+218,f150 super crew cab 4x4,-1
+219,f150 extended 4dr,-1
+220,f-150 xl 4dr supercab xl,2
+221,f-150 truck 4x4,-1
+222,f-150 xlt supercab 6.5-ft,5
+223,f-150 saleen,-1
+224,f150 xlt 4wd f-150,5
+225,f150 lariat 4wd f-150 4x4,10
+226,f150 xl 4wd,2
+227,f150 4wd f-150 4x4 lariat,10
+228,f150 xl super cab,2
+229,f150 supercab stx 4x4,3
+230,f150 xlt supercrew cab,5
+231,f-150 lariat supercrew 5.5-ft. bed 4wd 6-speed aut,10
+232,f-150 v8,-1
+233,f150 4wd truck f-150 lariat,10
+234,f-150 4wd lariat f150 4x4,10
+235,f150 stx 4wd f-150 4x4,3
+236,f150 4wd f-150 4x4,-1
+237,f-150 xlt 4wd f150 4x4,5
+238,f-150 ac,-1
+239,f150 lariat crew cab,10
+240,f150 4x4 xlt 4wd f-150,5
+241,f150 stx 4wd pickup truck,3
+242,f150 xlt f-150,5
+243,f-150 platinumcrew cab,15
+244,f150 4x4 supwer crew xlt,5
+245,f150 4x4 xlt crew,5
+246,f-150 four-door crew cab,-1
+247,f-150 supercab 4x4,-1
+248,f-150 supercrew platinum 4x,15
+249,f150 limited 4wd,17
+250,f150 xlt 4x4 truck,5
+251,f-150 lariat 4wd supercrew automatic,10
+252,f150 lariet,-1
+253,f150 xcab,-1
+254,f150 f150,-1
+255,f-150 extra cab,-1
+256,f-150 3.5l turbo,-1
+257,f150 extra cab,-1
+258,f150 super crew fx4 4x4,8
+259,f150 xlt supercrew 4wd,5
+260,f150 2wd supercrew,-1
+261,f150 longbed,-1
+262,f-150 king ranch *4wd,14
+263,f150 supercab xlt 4x4,5
+264,f-150 xlt lariat,10
+265,f150 king ranch,14
+266,f150 supercab eddie bauer,-1
+267,f150 ext cab 4x4,-1
+268,f150 xl supercab,2
+269,f150 7700 4x4,-1
+270,f150 limited,17
+271,f150 supercrew stx,3
+272,f-150 stx 4x2supercrew,3
+273,f-150 xlt 2wd supercab 6.5,5
+274,f-150 xl supercrew 5.5' b,2
+275,f-150/7700,-1
+276,f-150 2wd super cab xl/,2
+277,f-150 crew cab,-1
+278,f150 4x4 pickup truck,-1
+279,f-150 xlt crewcab 4x4,5
+280,f-150 xlt 4dr supercrew xl,5
+281,f150 lariat fx4 4x4 1/2 ton,10
+282,f150 lariat sport 4x4 gas,10
+283,f150 fx4 4x4 half ton gas,8
+284,f150 xlt xtr 4x4 1/2 ton,5
+285,f150 xlt 4x4 half ton gas,5
+286,f-150 4d extended cab,-1
+287,lifted f150 lariat 4x4 gas,10
+288,lifted f150 xlt 4x4 1/2 ton,5
+289,f150 lariat 4x4 half ton,10
+290,f150 stx 4x4 half ton gas,3
+291,f-150 long bed,-1
+292,f150 xlt 4x4 1/2 ton gas,5
+293,f150 xl reg cab,2
+294,f150 xlt fx4 4x4 half ton,5
+295,f150 xlt sport 4x4 1/2 ton,5
+296,f150 fx4 4x4 1/2 ton gas,8
+297,f150xlt 4x4,5
+298,f150 xlt xtr 4x4 half ton,5
+299,lifted f150 svt raptor 4x4,18
+300,f-150 quad cab short box,-1
+301,f150 xlt sport 4x4 half ton,5
+302,f150 platinum 4x4 half ton,15
+303,lifted f150 platinum 4x4,15
+304,f150 lariat 4x4 1/2 ton gas,10
+305,f150 sport 4x4 1/2 ton gas,-1
+306,f150 xlt fx4 4x4 1/2 ton,5
+307,lifted f150 lariat fx4 4x4,10
+308,lifted f150 xlt fx4 4x4 gas,5
+309,f150 fx2 rwd half ton gas,7
+310,f150 platinum 4x4 1/2 ton,15
+311,f-150 xl 3dr xl,2
+312,f-150 lifted 5.0l v8 dbl roof adaptive cruise loaded,-1
+313,f-150 fx4 fx4 4dr supercrew,8
+314,f-150 xlt xlt 4dr supercrew,5
+315,lifted f150 xlt sport 4x4,5
+316,f-150 limited ecoboost,17
+317,f150 limited 4x4 half ton,17
+318,f150 xlt sport 4x4,5
+319,f150 xlt ecoboost 4x4,5
+320,f-150 fx4 supercrew,8
+321,f150 xlt 4x4 supercrew,5
+322,f150 fx4 4x4 supercrew,8
+323,lifted f150 lariat sport,10
+324,f-150 sport ecoboost 4x4,-1
+325,f-150 maxed out 4x4 eco,-1
+326,f-150 raptor carbon,18
+327,f150 sport 4x4,-1
+328,f-150 lariat crew cab shor,10
+329,f150 lariat fx4 4x4 gas,10
+330,f-150 fx-4,-1
+331,f-150 supercrew fx4 4x4,8
+332,f150 xlt 4x4 supercab,5
+333,f150 supercrew king ranch,14
+334,f150 xlt crew,5
+335,f150 sport fx2,7
+336,f-150 xlt super crew,5
+337,f-150 platinum crew cab 4x4,15
+338,f-150 lariat crew cab 4x4,10
+339,f-150 king ranch 4x4 ecoboo,14
+340,f-150 xlt super crew 4 x 4,5
+341,f150 xlt_4x4,5
+342,f-150 supercrew 4x4,-1
+343,f150 xlt supercab styleside,5
+344,f150 fx4 super crew 4x4,8
+345,f150 xlt 4×4,5
+346,f150 platinum 4 x 4,15
+347,f-150 xlt 4x2supercrew,5
+348,f-150xl,2
+349,f-150 4wd super cab,-1
+350,f150 supercab xlt,5
+351,f-150 supercrew lariat,10
+352,f150 fx-2 sport,-1
+353,f-150 crew cab limited,17
+354,f150 4x4 platinum,15
+355,f150 fx/2 sport,-1
+356,f-150 xlt 4dr super crew,5
+357,f-150 xlt sport,5
+358,f-150 stx sport,3
+359,f150 4wd,-1
+360,f-150 supercrew 4wd,-1
+361,f150 xlt crew 4x4,5
+362,f-150 xlt supercab,5
+363,f-150 lariat *fr $499 down guaranteed finance 4wd,10
+364,f-150 xlt 4wd,5
+365,f150 supercrew lariat,10
+366,f150 raptor supercrew 4x4,18
+367,f-150 fx4 4x4,8
+368,f150 supercrew xlt 4x4,5
+369,f150 super crew fx4,8
+370,f-150 supercrew xlt,5
+371,f150 super crew xl 4x4,2
+372,f150 super crew xlt 4x4,5
+373,f-150 4x4 sport xlt,5
+374,f150 xlt lariat 4x4,10
+375,f-150 supercab 145 in,-1
+376,f-150 supercrew 145 in,-1
+377,f-150 supercrew xl 4x4,2
+378,f150 fx4 ecoboost,8
+379,f150 lariat fx4 super crew,10
+380,f-150 crew 4x4 v8,-1
+381,f150 fx4 crewcab,8
+382,f150 platinum/30 ft trailer,15
+383,f150 svt lightning,11
+384,f-150 4x4 4 dr,-1
+385,f150 supercrew platinum 4x4,15
+386,f150 2011,-1
+387,f150 lariat fx4,10
+388,f150 xl fx4,2
+389,f150 xlt fx4,5
+390,f150 xlt sport,5
+391,f150 king ranch fx4,14
+392,f-150 xl series,2
+393,f-150 sport,-1
+394,f-150 4x4 super cab,-1
+395,f-150 4x4 step side,-1
+396,f150 lightning svt,11
+397,f-150 xlt 4x4 fx4,5
+398,f-150 4x4 super crew xlt,5
+399,f-150 crew cab xlt 4x4,5
+400,f-150 stx fx4 4x4,3
+401,f-150 4x2,-1
+402,f-150 xlt supercrew 4wd,5
+403,f150 xl super crew 4x4,2
+404,f150 reg cab,-1
+405,f150 stx 4x2,3
+406,f-150 lariat supercrew 4x4,10
+407,f-150 4x4 super cab xlt,5
+408,f150 lariat crewcab 4x4,10
+409,f150 lariat supercab,10
+410,f150 7700,-1
+411,f150 xtra cab 4x4,-1
+412,f-150 raptor 4wd!crew cab,18
+413,f-150 xltextended cab,5
+414,f-150 xlt 4wd!crew cab,5
+415,f-150 xlt 4wd!extended,5
+416,f-150 lariat 4wd!crew cab,10
+417,f-150 fx4 4wd!crew cab,8
+418,f150 fx4 supercrew,8
+419,f150 xlt ext cab,5
+420,f150 heritage,6
+421,f150 super crew xlt,5
+422,f150 supercrew cab xlt 4x4,5
+423,f-150 fx4 4d supercrew automatic,8
+424,f150 regular cab 2wd,-1
+425,f-150 xlt 4d supercrew automatic,5
+426,f150 4x4 crew cab,-1
+427,f150 xl 4x4,2
+428,f150 stx 4x4,3
+429,f-150 lariat 4x4 crewcab,10
+430,f150 super crew cab limited,17
+431,f150 super cab stx 4x4,3
+432,f150 crew lariat 4wd v8,10
+433,f-150 supercrew lariat 5.0,10
+434,f-150 supercrew fx4,8
+435,f-150 crew lariat v8 5.0,10
+436,f-150 fx4 supercrew 5.5-ft.,8
+437,f-150 supercab stx,3
+438,f-150 lariat supercab,10
+439,f-150 4x4 lariet,-1
+440,f-150 stx supercrew,3
+441,f-150 lariat supercrew,10
+442,f150 xlt crew cab,5
+443,f150 sport,-1
+444,f-150 crew lariat 5.0 v8,10
+445,f150 crew lariat v8 5.0,10
+446,xlt f150,5
+447,f-150 stx fx4,3
+448,f150 fx4 off road,8
+449,f-150 fx4 3.5 ecoboost,8
+450,f-150 4x4 crew 5.0,-1
+451,f-150 xl crew cab 4x4,2
+452,f150 xlt sport edition,5
+453,f150 supercrew lariat 4x4,10
+454,f-150 lariet,-1
+455,f150 ecoboost lariat,10
+456,f150 crew xlt 4x4,5
+457,f150 pickup,-1
+458,f-150 xlt sport lifted,5
+459,f-150 platinum ecoboost,15
+460,f-150 lariat ecoboost 4x4,10
+461,f150 fx2 rwd 1/2 ton gas,7
+462,f-150 sport package 4x4,-1
+463,lifted f150 xl 4x4 half ton,2
+464,f-150 lariat 4x4 loaded,10
+465,f150 xl rwd,2
+466,f-150 xlt crew cab short b,5
+467,lifted f150 xl 4x4 1/2 ton,2
+468,f150 supercrew fx4 4x4,8
+469,f-150 clubcab,-1
+470,f150 crew cab 4x4 xlt,5
+471,f150 lariat 4x4 supercab,10
+472,f150 super cab 4x4 xlt,5
+473,f150 crew cab king ranch,14
+474,f-150 fx4 luxury package,8
+475,f-150 stx supercab,3
+476,f150 xlt supercab 4x4,5
+477,f150 xlt lariat,10
+478,f150 xlt ext. cab,5
+479,"f-150 4wd supercab 163"" xlt",5
+480,f-150 lariat 4x4supercrew,10
+481,f150 supercrew fx4,8
+482,f-150 crew 4x4 lariat,10
+483,f150 supercab 4dr,-1
+484,f150 super cab 4wd,-1
+485,f150 supercrew fx4 4wd,8
+486,f-150 xlt flare side,5
+487,f-150 extended cab 4x4,-1
+488,f150 stepside 4x4,-1
+489,f-150 shelby edition,-1
+490,f150 lariat 4x4 crew cab,10
+491,f-150 xl supercab,2
+492,f-150 xl 4wd supercab 6.5' box,2
+493,f150 4 x 4,-1
+494,f-150 supercab shortbox,-1
+495,f-150 fx4 4x4supercrew,8
+496,f150 crewcab platinum,15
+497,f-150 raptor svt,18
+498,f-150 2wd supercab 145 xl,2
+499,f-150 raotor,-1
+500,super duty f-150 xcab-4x4,-1
+501,f-150 fx4 4x4 4dr supercab,8
+502,f150 4x4 xtr,-1
+503,f150 supercab 4x4,-1
+504,f-150 4x4 supercab,-1
+505,lightning f150,11
+506,f150 xl extended cab,2
+507,f-150 raptor super crew cab,18
+508,f-150 crew cab xlt,5
+509,f-150 4dr 4x4,-1
+510,f150 triton,-1
+511,"f-150 supercab 139"" lariat",10
+512,f150 2wd,-1
+513,f-150 xl 2wd reg cab 6.5' box,2
+514,f-150 pick-up,-1
+515,f-150 pickup truck,-1
+516,f150 lariat fx4 supercrew,10
+517,f150 4x4 supercrew,-1
+518,f-150 xl 4x4 2dr regular,2
+519,f-150 supercrew fx-4 4wd,-1
+520,f-150 supercab xlt 4wd,5
+521,f-150 xl 2dr standard,2
+522,f150 regular cab long bed,-1
+523,f-150 fx4 pickup 4d 6 1/2,8
+524,f-1500,-1
+525,f-150 4x4 supercrew pickup,-1
+526,f-150 xl supercrew,2
+527,f150 lariat limited,17
+528,f-150 2wd supercrew,-1
+529,f-150 king ranch 4wd,14
+530,f-150 xlt truck,5
+531,f-150 raptor 4wd truck,18
+532,f-150 raptor arizona raptor*rust free*icon level kit*tech pkg*pano roof*newer tires*graphics pkg*like new in&out*non smoker*immaculate interior*heated steering wheel*cooled seats*tailgate step,18
+533,f-150 lariat truck leathe,10
+534,f-150 supercrew 145 xlt,5
+535,f-150 xlt supercab 6.5' b,5
+536,f-150 supercab 145 xlt,5
+537,f-150 xlt supercrew 6.5',5
+538,f-150 xlt 4x4 4dr supercrew,5
+539,f-150 svt raptor 4x4 4dr su,18
+540,f-150 lariat 4x4 4dr superc,10
+541,f-150 lifted 5.0l v8 dbl ro,-1
+542,f-150 king ranch pick up t,14
+543,f150 off road,-1
+544,f150 platinum fx4 4x4 gas,15
+545,f-150 supercab 139 xl,2
+546,f150 super cab fx4 6-1/2,8
+547,"f-150 supercrew 139"" lariat 4wd",10
+548,"f-150 supercrew 139"" xlt 4wd",5
+549,f-150 v6 power stroke diesel lariat fully loaded lifted,10
+550,f150 (northland edition),-1
+551,"f-150 4wd supercrew 150"" xlt",5
+552,f-150 supercab 163 xlt,5
+553,f-150 super crew platinum,15
+554,f150 (eco boost) 4x4,-1
+555,custom f150 4x4,-1
+556,f-150 4wd,-1
+557,f-150 2wd supercrew 145 xl,2
+558,f150 xlt pickup,5
+559,f-150 xl 3dr extended cab,2
+560,f150 reg short bed,-1
+561,f-150 stx pickup 2d 6 1/2,3
+562,f-150 stx 4x4 supercab v8 5.0l automatic only 29k,3
+563,f-150 xlt 4x4 2.7l ecobosst super cab 78k 1 owner,5
+564,f150 supercrew cab xlt pic,5
+565,f-150 raptor 4dr supercre,18
+566,f-150 fx4 4dr supercrew s,8
+567,f-150 supercab,-1
+568,f150 super crew cab l 4x4,-1
+569,f150 crewcab lariat 4x4,10
+570,f150 long bed,-1
+571,f150 super crew 5.0 4x4,-1
+572,f150 ext cab 5.0 4x4,-1
+573,f150 xl triton,2
+574,f150 stx super cab,3
+575,f-150 fx4 supercrew 4wd,8
+576,f-150 4-dr lariat,10
+577,f-150 ex-cab 4x4,-1
+578,f150 xlt super crew,5
+579,f150 crew cab xlt,5
+580,f-150 xlt 4wd supercrew 5.5' box,5
+581,f-150 raptor 4wd supercrew 5.5' box,18
+582,f-150 lariat 4wd supercrew 5.5' box,10
+583,f-150 platinum 4wd supercrew 5.5' box,15
+584,f150 truck,-1
+585,f150 lt,-1
+586,f-150 lariat supercrew 4wd,10
+587,f150 king ranch super crew,14
+588,f-150 xl 8' bed,2
+589,f-150 special,-1
+590,f-150 xtnd. cab,-1
+591,f-150 xl work truck,2
+592,f150 xl supercab 4x4,2
+593,f-150 xlt super cab,5
+594,f150 xl lwb,2
+595,f-150 king ranch automatic,14
+596,f-150 limited automatic,17
+597,f-150 supercab 145 in xl,2
+598,f-150 automatic,-1
+599,f150 fxrew 4x44 supercrew,-1
+600,f150 supercab xl,2
+601,f-150 xl supercab 6.5-ft.,2
+602,f-150 lariat 2wd,10
+603,f-150 xl 4x4 long bed,2
+604,f150 short bed,-1
+605,f-150 xlt texas edition,5
+606,f150 xlt texas editio,5
+607,f-150 xlt super,5
+608,f-150 lariat fx4,10
+609,f-150 access cab,-1
+610,f-150 supercrew 4x4 xlt,5
+611,f-150 short bed,-1
+612,f150 xlt sport crew,5
+613,f-150 lariat 4x4 4door,10
+614,"f-150 1 owner, 0 accidents, large touchscreen,buckets, keyless entry, backup camera,bluetooth, very very nice truck",-1
+615,"f-150 xlt, 392 month, 2.9%apr, $1500 down, oac, $392.37 month, 2.9%apr, $1500 down, oac, $23,750,",5
+616,"f-150 lariat,one owner, $489.49 month, $2500 down, 2.9%a one owner, $489.49 month, $2500 down, 2.9%apr, oac",10
+617,"f-150 stx,only 28k miles, almost new, save thousands!!! stx,one owner, only 28k miles, save thousands compared to new!!!",3
+618,"f-150 lariat, lifted, 4x4 lariat, lifted, 4x4",10
+619,"f-150 king ranch,$575.25 month, $2500 down, 2.9% apr, 72 $575.25 month, $2500 down, 2.9% apr, 72 months, oac,",14
+620,"f-150 lariat, $436.73, $2500 down, 2.9% apr, oac lariat, $436.73, $2500 down, 2.9% apr, oac",10
+621,"f-150 lariat $520.91 month, 2.9% apr, oac, $2500 down,84 mths",10
+622,f150 svt raptor 4x4 gas,18
+623,f-150 triton v8 5.4l,-1
+624,f-150 king ranch crew,14
+625,f-150 xlt crew,5
+626,f-150 stx super cab,3
+627,f-150 supercab xlt 4x4,5
+628,f-150 stx crew,3
+629,f-150 ranger,-1
+630,f-150 long bed xl,2
+631,f-150 koi,-1
+632,f-150 standard cab,-1
+633,"f-150 4wd supercab 145"" xl",2
+634,f150 king ranch fx4 4x4 gas,14
+635,f150 stx 4x4 1/2 ton gas,3
+636,lifted f150 fx4 4x4 1/2 ton,8
+637,f-150 xlt fx4crew cab,5
+638,f-150 xlt off-,5
+639,f-150 xlt supercrew 6.5-ft. bed 4wd,5
+640,f-150 base 3dr extended c,-1
+641,"f-150 xl - 3 month 3,000 miles limited warranty",17
+642,f-150 platinum 4dr superc,15
+643,f150 shelby raptor baja 4x4,18
+644,f-150 king ranch 4dr supe,14
+645,f150 limited 4x4 1/2 ton,17
+646,f150 xl stx 4x4 1/2 ton gas,3
+647,f-150 lariat lariat 4dr sup,10
+648,f150 xl rwd 1/2 ton gas,2
+649,f-150 lariat steeda,10
+650,lifted f150 xlt rwd 1/2 ton,5
+651,f150 king ranch 4x4 1/2 ton,14
+652,f150 lariat rwd half ton,10
+653,f-150 black,-1
+654,f-150 xlt 3dr extended ca,5
+655,f150 raptor 4x4 1/2 ton gas,18
+656,f150 raptor 4x4 half ton,18
+657,f150 4door 4x4,-1
+658,f150 xl single cab,2
+659,f150 supercrew platinum,15
+660,lifted f150 xlt xtr 4x4 gas,5
+661,f150 flare side,-1
+662,f150 crew cab,-1
+663,f150 xlt triton v8,5
+664,f150 extended cab 4x4,-1
+665,f150xlt,5
+666,f-150 xlt sport 4x4 crew,5
+667,f150 crewcab xlt,5
+668,f-150 fx4 sport appearance,8
+669,f150 4x4 heritage,6
+670,f-150 heritage,6
+671,"f150, xlt",5
+672,"f150, platinum",15
