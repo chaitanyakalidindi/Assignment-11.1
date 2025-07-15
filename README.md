@@ -8,6 +8,7 @@ The project follows the CRISP-DM framework, covering the stages of Business Unde
 
 ## Project structure
 Jupiter Notebook: https://github.com/chaitanyakalidindi/Assignment-11.1/blob/main/prompt_II.ipynb
+
 Directions: Add vehicles.csv file into data directory before running the notebook
 
 
