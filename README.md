@@ -45,7 +45,7 @@ GridSearchCV was used to tune hyperparameters (specifically polynomial degree an
 
 ## Key Findings
 
-The evaluation of the models, primarily using Root Mean Squared Error (RMSE), showed that all models performed similarly, with Test RMSE values around $4600 - $4800. The Lasso with Feature Selection model showed a slightly lower test RMSE.
+The evaluation of the models, primarily using Root Mean Squared Error (RMSE), showed that all models performed similarly, with Test RMSE values around 46 to 48 percent. The Lasso with Feature Selection model showed a slightly lower test RMSE.
 
 The analysis of model coefficients from the Lasso with Feature Selection model revealed the following key price drivers for used Ford F-150s:
 
@@ -62,7 +62,7 @@ The analysis of model coefficients from the Lasso with Feature Selection model r
 Based on the findings, the following recommendations are provided to the used car dealership:
 
 1. **Prioritize Newer, Lower-Mileage F-150s:** These vehicles have the strongest positive impact on price and should be a focus for inventory acquisition.
-2. **Stock Popular Trim Levels:** Understand regional demand for specific F-150 trims as they influence pricing.
+2. **Stock Popular Trim Levels:** Understand demand for specific F-150 trims as they influence pricing.
 3. **Consider the Drive Type:** Acquire 4x4 F-150s if your market has a high demand for them.
 4. **Be Mindful of Title Status:** Account for the lower market value of vehicles with rebuilt or salvage titles when purchasing and pricing.
 5. **Assess and Highlight Vehicle Condition:** Since better condition positively influences price, accurately assessing and marketing the condition of your inventory is important.
