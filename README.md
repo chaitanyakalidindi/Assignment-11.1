@@ -51,7 +51,7 @@ GridSearchCV was used to tune hyperparameters (specifically polynomial degree an
 
 ## Key Findings
 
-The evaluation of the models, primarily using Root Mean Squared Error (RMSE), showed that all models performed similarly, with Test RMSE values around 46 to 48 percent. The Lasso with Feature Selection model showed a slightly lower test RMSE.
+The evaluation of the models, primarily using Root Mean Squared Error (RMSE), showed that all models performed similarly, with Test RMSE values around 4600 to 4800 dollars. The Lasso with Feature Selection model showed a slightly lower test RMSE.
 
 The analysis of model coefficients from the Lasso with Feature Selection model revealed the following key price drivers for used Ford F-150s:
 
